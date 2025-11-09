@@ -1,6 +1,6 @@
 <div align="center">
 
-![HealthAI Nexus Banner](https://raw.githubusercontent.com/yourusername/healthai-nexus/main/assets/banner.png)
+![HealthAI Nexus Banner](https://raw.githubusercontent.com/Asutosh-21/healthai-nexus/main/assets/banner.png)
 
 # 🏥 HealthAI Nexus
 
@@ -181,7 +181,7 @@ python-dotenv>=1.0.0       # Environment variables
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/healthai-nexus.git
+git clone https://github.com/Asutosh-21/healthai-nexus.git
 cd healthai-nexus
 
 # 2. Install dependencies
@@ -542,11 +542,11 @@ Special thanks to:
 
 <div align="center">
 
-[![GitHub Issues](https://img.shields.io/badge/Issues-GitHub-red?style=for-the-badge&logo=github)](https://github.com/yourusername/healthai-nexus/issues)
-[![Discussions](https://img.shields.io/badge/Discussions-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/healthai-nexus/discussions)
+[![GitHub Issues](https://img.shields.io/badge/Issues-GitHub-red?style=for-the-badge&logo=github)](https://github.com/Asutosh-21/healthai-nexus/issues)
+[![Discussions](https://img.shields.io/badge/Discussions-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Asutosh-21/healthai-nexus/discussions)
 [![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail)](mailto:support@healthainexus.com)
 
-**Need Help?** Check our [Documentation](https://github.com/yourusername/healthai-nexus/wiki) or [Open an Issue](https://github.com/yourusername/healthai-nexus/issues/new)
+**Need Help?** Check our [Documentation](https://github.com/Asutosh-21/healthai-nexus/wiki) or [Open an Issue](https://github.com/Asutosh-21/healthai-nexus/issues/new)
 
 </div>
 
@@ -556,12 +556,12 @@ Special thanks to:
 
 <div align="center">
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/healthai-nexus?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/healthai-nexus?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/healthai-nexus?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/healthai-nexus)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/healthai-nexus)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/healthai-nexus)
+![GitHub stars](https://img.shields.io/github/stars/Asutosh-21/healthai-nexus?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Asutosh-21/healthai-nexus?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Asutosh-21/healthai-nexus?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Asutosh-21/healthai-nexus)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Asutosh-21/healthai-nexus)
+![GitHub last commit](https://img.shields.io/github/last-commit/Asutosh-21/healthai-nexus)
 
 </div>
 
