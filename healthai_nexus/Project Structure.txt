@@ -1,0 +1,24 @@
+healthai_nexus/
+│
+├── app.py
+├── requirements.txt
+├── .env
+│
+├── agents/
+│   ├── base_agent.py
+│   ├── cardiologist_agent.py
+│   ├── nutritionist_agent.py
+│   ├── neurologist_agent.py
+│   ├── pharmacologist_agent.py
+│   ├── fitness_agent.py
+│   ├── sleep_agent.py
+│   ├── dermatologist_agent.py
+│   ├── summary_agent.py
+│
+├── utils/
+│   ├── ocr_reader.py
+│
+├── assets/
+│   ├── logo.png
+│
+└── README.md

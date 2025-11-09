@@ -1,0 +1,7 @@
+
+- Change button text from "Enter Personal Info" to "Update Personal Info"
+- Change the ui better and dashboard 
+- login and log out page
+- alert system and notification
+- Structurized all the code file in the project &  (ALL reports and pdfs )
+- Deployment of project

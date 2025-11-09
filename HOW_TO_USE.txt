@@ -1,0 +1,200 @@
+================================================================================
+                    HEALTHAI NEXUS - HOW TO USE
+================================================================================
+
+🎉 YOUR APP IS NOW RUNNING!
+
+The application should open automatically in your browser at:
+http://localhost:8501
+
+If it doesn't open automatically, copy the URL from the terminal.
+
+================================================================================
+                    STEP-BY-STEP GUIDE
+================================================================================
+
+STEP 1: ENTER PATIENT PROFILE (Left Sidebar)
+---------------------------------------------
+✅ Select Age Group: Adult (18-64)
+✅ Select Weight: Normal
+✅ Enter Allergies: penicillin, sulfa drugs (comma-separated)
+✅ Current Medications: aspirin, metformin (comma-separated)
+✅ Existing Conditions: diabetes, hypertension (comma-separated)
+
+STEP 2: SYMPTOM ANALYSIS (Tab 1)
+---------------------------------
+✅ Enter symptoms in the text area:
+   Example: "High fever (102°F), runny nose, sore throat, body aches, 
+            cough for 3 days. Feeling very tired."
+
+✅ (Optional) Upload medical report:
+   - Supported: JPG, PNG, PDF, TXT
+   - Click "Browse files" to upload
+
+✅ Click "🔍 Analyze Symptoms" button
+
+✅ Wait 10-30 seconds for analysis
+
+✅ View Results:
+   - Risk Score (0-10)
+   - Specialists Consulted
+   - Medical Assessment
+   - Evidence-Based Information
+   - Individual Specialist Reports
+
+STEP 3: TREATMENT PLAN (Tab 2)
+-------------------------------
+✅ View Recommended Medications:
+   - Drug name, dosage, frequency
+   - Safety status (Safe/Caution/Contraindicated)
+   - Warnings and precautions
+
+✅ Check Non-Pharmacological Treatments:
+   - Rest, hydration, lifestyle changes
+
+✅ Review Monitoring Requirements:
+   - Tests needed, follow-up schedule
+
+STEP 4: WELLNESS PLAN (Tab 3)
+------------------------------
+✅ Personalized Diet Plan:
+   - Foods to eat
+   - Foods to avoid
+   - Hydration goals
+
+✅ Exercise Routine:
+   - Type, duration, frequency
+   - Safety precautions
+
+✅ Lifestyle Modifications:
+   - Sleep schedule
+   - Stress management
+   - Healthy habits
+
+✅ Preventive Measures:
+   - Screening schedules
+   - Supplements
+   - Follow-up timeline
+
+STEP 5: DOWNLOAD REPORTS (Tab 4)
+---------------------------------
+✅ Download PDF Report:
+   - Professional medical report
+   - Click "📥 Download PDF"
+
+✅ Download JSON Report:
+   - Structured data export
+   - Click "📥 Download JSON"
+
+✅ Email Report (Coming Soon):
+   - Enter email address
+   - Click "📧 Send Email"
+
+================================================================================
+                    EXAMPLE SYMPTOMS TO TRY
+================================================================================
+
+1. COMMON COLD:
+   "High fever, runny nose, sore throat, cough, body aches for 3 days"
+   Expected: General Practitioner + Pharmacologist
+
+2. CHEST PAIN (EMERGENCY):
+   "Severe chest pain radiating to left arm, shortness of breath, sweating"
+   Expected: Cardiologist + General Practitioner (HIGH RISK)
+
+3. DIABETES SYMPTOMS:
+   "Increased thirst, frequent urination, fatigue, blurred vision"
+   Expected: Nutritionist + Pharmacologist + GP
+
+4. SKIN RASH:
+   "Red itchy rash on arms and legs, started after new detergent"
+   Expected: Dermatologist + Pharmacologist
+
+5. INSOMNIA:
+   "Can't fall asleep, waking up at night, feeling anxious and stressed"
+   Expected: Sleep Specialist + General Practitioner
+
+6. HEADACHE:
+   "Severe headache with dizziness and nausea for 2 days"
+   Expected: Neurologist + General Practitioner
+
+================================================================================
+                    TIPS FOR BEST RESULTS
+================================================================================
+
+✅ BE SPECIFIC: Include duration, severity, and specific symptoms
+✅ UPDATE PROFILE: Keep patient information current
+✅ UPLOAD REPORTS: Add lab results for better analysis
+✅ CHECK ALL TABS: Review treatment and wellness plans
+✅ DOWNLOAD REPORTS: Save for your records
+
+================================================================================
+                    TROUBLESHOOTING
+================================================================================
+
+ISSUE: App won't start
+FIX: Run manually: streamlit run healthai_nexus/app_enhanced.py
+
+ISSUE: API Error
+FIX: Check .env file has correct GROQ_API_KEY
+
+ISSUE: Module not found
+FIX: pip install -r healthai_nexus/requirements.txt
+
+ISSUE: Slow response
+FIX: Normal - AI analysis takes 10-30 seconds
+
+ISSUE: Unicode error in terminal
+FIX: Ignore - app still works fine
+
+================================================================================
+                    KEYBOARD SHORTCUTS
+================================================================================
+
+Ctrl + C = Stop the server
+Ctrl + R = Refresh the page
+F11 = Full screen mode
+
+================================================================================
+                    IMPORTANT REMINDERS
+================================================================================
+
+⚠️ This is an AI assistant, NOT a replacement for doctors
+⚠️ Emergency symptoms require immediate medical attention
+⚠️ Always verify recommendations with healthcare professionals
+⚠️ Keep your API key secure and private
+⚠️ Patient data is stored locally in healthai.db
+
+================================================================================
+                    EMERGENCY SYMPTOMS
+================================================================================
+
+SEEK IMMEDIATE MEDICAL CARE IF YOU HAVE:
+🚨 Chest pain or pressure
+🚨 Difficulty breathing
+🚨 Severe bleeding
+🚨 Loss of consciousness
+🚨 Stroke symptoms (FAST: Face, Arms, Speech, Time)
+🚨 Severe allergic reactions
+
+CALL 911 OR GO TO EMERGENCY ROOM IMMEDIATELY!
+
+================================================================================
+                    SUPPORT & DOCUMENTATION
+================================================================================
+
+📖 README.md - Main documentation
+📖 QUICK_START.md - Getting started guide
+📖 DEMO.md - Example scenarios
+📖 FEATURES_ADDED.md - New features details
+📖 WHATS_BUILT.txt - Complete feature list
+
+================================================================================
+
+🎉 ENJOY YOUR AI HEALTHCARE ASSISTANT! 🎉
+
+Questions? Check the documentation files or run test scripts.
+
+To stop the app: Press Ctrl+C in the terminal
+
+================================================================================

@@ -1,0 +1,76 @@
+PRESCRIPTION - November 08, 2025 at 08:16 PM
+================================================================================
+
+Patient: asu21
+Age: 22 years
+BMI: 31.1
+
+**PRESCRIPTION**
+
+**Patient Name:** asu21
+**Date:** [Current Date]
+**Physician:** [Your Name], MD
+
+**Rx (Medications):**
+
+1. **Omeprazole (Prilosec)**
+	* Strength/Dosage: 20mg
+	* Route: Oral
+	* Frequency: 1 capsule once daily
+	* Duration: for 30 days
+	* Special instructions: Take with breakfast
+2. **Psyllium (Metamucil)**
+	* Strength/Dosage: 1 tablespoon (approximately 10g)
+	* Route: Oral
+	* Frequency: 1 tablespoon twice daily
+	* Duration: for 30 days
+	* Special instructions: Mix with 8oz of water, take with meals
+3. **Multivitamin (Centrum)**
+	* Strength/Dosage: 1 tablet
+	* Route: Oral
+	* Frequency: 1 tablet once daily
+	* Duration: for 30 days
+	* Special instructions: Take with breakfast
+4. **Probiotic (Culturelle)**
+	* Strength/Dosage: 1 capsule (approximately 10 billion CFU)
+	* Route: Oral
+	* Frequency: 1 capsule once daily
+	* Duration: for 30 days
+	* Special instructions: Take with meals
+5. **Omega-3 fatty acids (Lovaza)**
+	* Strength/Dosage: 1 gram (approximately 1000mg)
+	* Route: Oral
+	* Frequency: 1 capsule once daily
+	* Duration: for 30 days
+	* Special instructions: Take with meals
+
+**INVESTIGATIONS:**
+
+1. **Complete Blood Count (CBC)**
+2. **Comprehensive Metabolic Panel (CMP)**
+3. **Lipid Profile**
+4. **Thyroid Function Tests (TFTs)**
+5. **Upper Endoscopy** (if symptoms persist or worsen)
+
+**ADVICE:**
+
+1. **Dietary recommendations:** Follow a balanced diet, focusing on whole, unprocessed foods, including fruits, vegetables, whole grains, lean proteins, and healthy fats. Avoid trigger foods, such as spicy or fatty foods, and increase fiber-rich foods.
+2. **Activity restrictions:** None
+3. **Warning signs to watch for:** Severe abdominal pain, vomiting, difficulty breathing, chest pain, severe fatigue, or weakness. If any of these symptoms occur, seek immediate medical attention.
+
+**FOLLOW-UP:**
+
+1. **Return in:** 2 weeks
+2. **Monitor:** Symptoms, medication side effects, and laboratory results
+3. **Contact:** If symptoms worsen or if you have any questions or concerns, please contact our office at [phone number] or [email address]
+
+**Signature:**
+
+[Your Signature]
+[Your Name], MD
+[Medical License Number]
+[Contact Information]
+
+================================================================================
+⚠️ DISCLAIMER: AI-generated for informational purposes only.
+NOT a valid legal prescription. Consult healthcare provider.

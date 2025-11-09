@@ -1,0 +1,65 @@
+PRESCRIPTION - November 07, 2025 at 10:04 PM
+================================================================================
+
+Patient: asu21
+Age: 22 years
+BMI: 31.1
+
+**PRESCRIPTION FOR ASU21**
+
+**Rx (Medications)**
+
+1. **Loperamide (Imodium)**
+   - Strength/Dosage: 2mg
+   - Route: Oral
+   - Frequency: 1 capsule after each loose stool, not to exceed 4 capsules in 24 hours
+   - Duration: for 5 days
+   - Special instructions: Take with food to minimize gastrointestinal upset
+
+2. **Acetaminophen (Tylenol)**
+   - Strength/Dosage: 650mg
+   - Route: Oral
+   - Frequency: 1 tablet every 4-6 hours as needed for pain or fever
+   - Duration: for 5 days
+   - Special instructions: Do not exceed 4 grams in 24 hours; take with food to minimize stomach upset
+
+3. **Meclizine (Bonine)**
+   - Strength/Dosage: 25mg
+   - Route: Oral
+   - Frequency: 1 tablet every 4-6 hours as needed for nausea
+   - Duration: for 5 days
+   - Special instructions: Take with food to minimize drowsiness
+
+**INVESTIGATIONS**
+
+- **Complete Blood Count (CBC)**: to rule out infection or inflammation
+- **Stool Culture**: to identify any bacterial or viral pathogens
+- **Electrolyte Panel**: to assess for any electrolyte imbalances
+
+**ADVICE**
+
+- **Dietary Recommendations**: Follow a bland diet (BRAT diet: bananas, rice, applesauce, and toast) for the next 3-5 days to help firm up stool and reduce symptoms. Gradually introduce other foods as symptoms improve.
+- **Activity Restrictions**: Avoid strenuous activities and get plenty of rest to help your body recover.
+- **Warning Signs to Watch For**: Seek immediate medical attention if you experience severe abdominal pain, vomiting blood, fever above 101.5°F, signs of dehydration, bloody diarrhea, or difficulty breathing.
+
+**FOLLOW-UP**
+
+- **Return in 5-7 days** for a follow-up appointment to assess symptom improvement and review laboratory results.
+- **Monitor** for any worsening of symptoms, such as increased abdominal pain, vomiting, or fever, and seek immediate medical attention if you experience any of these symptoms.
+
+**Patient Education**
+
+- It is essential to stay hydrated by drinking plenty of fluids, such as water, clear broths, or electrolyte-rich beverages.
+- Practice good hygiene, such as washing your hands frequently, especially after using the bathroom and before eating.
+- If you have any questions or concerns, do not hesitate to contact our office.
+
+**Signature**
+
+[Your Name]
+Licensed Medical Doctor
+[Medical License Number]
+[Date]
+
+================================================================================
+⚠️ DISCLAIMER: AI-generated for informational purposes only.
+NOT a valid legal prescription. Consult healthcare provider.
