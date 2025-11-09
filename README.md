@@ -196,7 +196,7 @@ python -m streamlit run healthai_nexus/app_dashboard.py
 
 ### 🌐 Access Application
 
-Open your browser and navigate to: **http://localhost:8501**
+Open your browser and navigate to: **(https://healthai-nexus-iu6ztzjmeiyjscvwpb2dgu.streamlit.app/)**
 
 ---
 
