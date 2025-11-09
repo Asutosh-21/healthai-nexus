@@ -72,18 +72,17 @@ def create_banner():
     output_path = 'assets/banner.png'
     image.save(output_path, 'PNG', quality=95)
     
-    print(f"✅ Banner created successfully: {output_path}")
-    print(f"📐 Size: {width}x{height} px")
-    print(f"📁 Location: {os.path.abspath(output_path)}")
-    print("\n🎯 Next steps:")
+    print(f"Banner created successfully: {output_path}")
+    print(f"Size: {width}x{height} px")
+    print(f"Location: {os.path.abspath(output_path)}")
+    print("\nNext steps:")
     print("1. Upload to GitHub: git add assets/banner.png")
     print("2. Commit: git commit -m 'Add project banner'")
     print("3. Push: git push origin main")
-    print("4. Update README.md image URL with your GitHub username")
 
 if __name__ == "__main__":
     try:
         create_banner()
     except Exception as e:
-        print(f"❌ Error creating banner: {e}")
-        print("\n💡 Make sure Pillow is installed: pip install pillow")
+        print(f"Error creating banner: {e}")
+        print("\nMake sure Pillow is installed: pip install pillow")
